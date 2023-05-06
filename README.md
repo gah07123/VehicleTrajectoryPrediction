@@ -22,3 +22,7 @@ attention-based seq2seq模型，自己随便写的，没有进行参数优化
 使用前需要修改attention-based-seq2seq0308.py中导入dataprocess方法的路径
 
 <img src="README.assets/image-20230322152421656.png" alt="image-20230322152421656" style="zoom:67%;" />
+
+# 0506
+该仓库不再上传代码，仅作记录
+上传了MyVectorNet的代码
