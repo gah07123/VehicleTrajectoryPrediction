@@ -1,0 +1,20 @@
+{
+    "data_root":"data/interm_data",
+    "output_dir":"run/vectornet",
+    "num_glayer":1,
+    "aux_loss":false,
+    "batch_size":256,
+    "n_epoch":30,
+    "num_workers":0,
+    "with_cuda":true,
+    "log_freq":2,
+    "lr":0.001,
+    "warmup_epoch":10,
+    "lr_update_freq":5,
+    "lr_decay_rate":0.9,
+    "adam_weight_decay":0.01,
+    "adam_beta1":0.9,
+    "adam_beta2":0.999,
+    "resume_checkpoint":null,
+    "resume_model":null
+}
